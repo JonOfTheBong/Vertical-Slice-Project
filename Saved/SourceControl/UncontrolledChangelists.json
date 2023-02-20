@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Tutorial_Level.umap",
+				"E:/Vertical-Slice-Project/Content/ThirdPersonBP/Blueprints/Main.uasset",
+				"E:/Vertical-Slice-Project/Content/Blueprints/TaskList.uasset",
+				"E:/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Tutorial_Level1.umap",
+				"E:/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap",
+				"E:/Vertical-Slice-Project/Content/Blueprints/Plug_In.uasset"
+			]
+		}
+	]
+}
