@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jonor/Documents/GitHub/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Tutorial_Level1.umap",
+				"C:/Users/jonor/Documents/GitHub/Vertical-Slice-Project/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset",
+				"C:/Users/jonor/Documents/GitHub/Vertical-Slice-Project/Content/ThirdPersonBP/Blueprints/Heavy.uasset",
+				"C:/Users/jonor/Documents/GitHub/Vertical-Slice-Project/Content/ThirdPersonBP/Blueprints/Main.uasset",
+				"C:/Users/jonor/Documents/GitHub/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Tutorial_Level.umap",
 				"E:/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Tutorial_Level.umap",
 				"E:/Vertical-Slice-Project/Content/ThirdPersonBP/Blueprints/Main.uasset",
 				"E:/Vertical-Slice-Project/Content/Blueprints/TaskList.uasset",
