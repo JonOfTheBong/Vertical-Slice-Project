@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cguim/Desktop/Vertical-Slice-Project/Content/Blueprints/BatteryPack.uasset",
+				"C:/Users/cguim/Desktop/Vertical-Slice-Project/Content/Blueprints/BatteryInsert.uasset",
+				"C:/Users/cguim/Desktop/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap",
+				"C:/Users/cguim/Desktop/Vertical-Slice-Project/Content/ThirdPersonBP/Blueprints/Main.uasset",
+				"C:/Users/cguim/Desktop/Vertical-Slice-Project/Content/Blueprints/Plug_In.uasset",
 				"C:/Users/jonor/Documents/GitHub/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Tutorial_Level1.umap",
 				"C:/Users/jonor/Documents/GitHub/Vertical-Slice-Project/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset",
 				"C:/Users/jonor/Documents/GitHub/Vertical-Slice-Project/Content/ThirdPersonBP/Blueprints/Heavy.uasset",
