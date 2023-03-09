@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/joshd/Documents/GitHub/Vertical-Slice-Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/BX/TFXHFHBFYM5O3VR5DZ59SK.uasset",
+				"C:/Users/joshd/Documents/GitHub/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Level_1.umap",
 				"C:/Users/jonor/Documents/GitHub/Vertical-Slice-Project/Content/Blueprints/JOR/Elevator.uasset",
 				"C:/Users/jonor/Documents/GitHub/Vertical-Slice-Project/Content/Materials/BasicTestMaterial.uasset",
 				"C:/Users/jonor/Documents/GitHub/Vertical-Slice-Project/Content/Materials/Black_BasicTestMaterial.uasset",
