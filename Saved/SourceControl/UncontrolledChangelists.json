@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/B00847870.AD.000/Documents/GitHub/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Level_1.umap",
+				"C:/Users/B00847870.AD.000/Documents/GitHub/Vertical-Slice-Project/Content/Blueprints/BatteryPack.uasset",
+				"C:/Users/B00847870.AD.000/Documents/GitHub/Vertical-Slice-Project/Content/Blueprints/Liquid_Hazard.uasset",
+				"C:/Users/B00847870.AD.000/Documents/GitHub/Vertical-Slice-Project/Content/Blueprints/Mat_Folder/water_Hazrd.uasset",
 				"C:/Users/B00834492/Desktop/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Level_1.umap",
 				"C:/Users/B00834492/Desktop/Vertical-Slice-Project/Content/Blueprints/MainDoor.uasset",
 				"C:/Users/B00834492/Desktop/Vertical-Slice-Project/Content/Blueprints/Box_spawn.uasset",
