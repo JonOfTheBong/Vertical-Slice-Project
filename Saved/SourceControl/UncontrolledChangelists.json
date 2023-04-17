@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Student/OneDrive - Ulster University/Documents/Github/Vertical-Slice-Project/Content/UI/Menu_UI/UMGWidgets/UI_ExitGame.uasset",
+				"C:/Users/Student/OneDrive - Ulster University/Documents/Github/Vertical-Slice-Project/Content/Sound/SoundClasses/SC_Master.uasset",
+				"C:/Users/Student/OneDrive - Ulster University/Documents/Github/Vertical-Slice-Project/Content/UI/Menu_UI/UMGWidgets/UI_Settings_Audio.uasset",
+				"C:/Users/Student/OneDrive - Ulster University/Documents/Github/Vertical-Slice-Project/Content/GameInstance.uasset",
+				"C:/Users/Student/OneDrive - Ulster University/Documents/Github/Vertical-Slice-Project/Content/AM_Gamemode.uasset",
+				"C:/Users/Student/OneDrive - Ulster University/Documents/Github/Vertical-Slice-Project/Content/Settings_SaveGame.uasset",
+				"C:/Users/Student/OneDrive - Ulster University/Documents/Github/Vertical-Slice-Project/Content/AM_GameInstance.uasset",
+				"C:/Users/Student/OneDrive - Ulster University/Documents/Github/Vertical-Slice-Project/Content/Sound/SoundClasses/SoundMix.uasset",
+				"C:/Users/Student/OneDrive - Ulster University/Documents/Github/Vertical-Slice-Project/Content/Sound/SoundClasses/SC_Dialogue.uasset",
+				"C:/Users/Student/OneDrive - Ulster University/Documents/Github/Vertical-Slice-Project/Content/Sound/SoundClasses/SC_Music.uasset",
+				"C:/Users/Student/OneDrive - Ulster University/Documents/Github/Vertical-Slice-Project/Content/Sound/SoundClasses/SC_SFX.uasset",
 				"D:/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Level_1.umap",
 				"D:/Vertical-Slice-Project/Content/Blueprint_/Con_BP-MAT/intro_Sequence.uasset"
 			]
