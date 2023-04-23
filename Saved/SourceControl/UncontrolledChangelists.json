@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Level_1.umap",
+				"D:/Vertical-Slice-Project/Content/Blueprint_/Con_BP-MAT/intro_Sequence.uasset",
+				"D:/Vertical-Slice-Project/Content/Maps/Conaill_Levels/Tutorial_room1.umap",
+				"D:/Vertical-Slice-Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LN/YL6GP8GQV60XK0G5FD56J5.uasset",
+				"D:/Vertical-Slice-Project/Content/Blueprint_/Con_BP-MAT/Mat_Folder/Flicker_Light.uasset",
 				"C:/Users/jonor/Documents/SOFTWARE FILES/GitHub/Vertical-Slice-Project/Content/UI/Menu_UI/Iteration_1/UMGWidgets/UI_MainMenu.uasset",
 				"C:/Users/jonor/Documents/SOFTWARE FILES/GitHub/Vertical-Slice-Project/Content/UI/Menu_UI/UMGWidgets/UI_MainMenu.uasset",
 				"C:/Users/jonor/Documents/SOFTWARE FILES/GitHub/Vertical-Slice-Project/Content/UI/Menu_UI/Iteration_1/UMGWidgets/UI_Credits.uasset",
@@ -72,9 +77,7 @@
 				"C:/Users/B00847870.AD.001/Documents/GitHub/Vertical-Slice-Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/NH/9ST7L8XSAHO331KHPZBFIF.uasset",
 				"C:/Users/B00847870.AD.001/Documents/GitHub/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Level_1.umap",
 				"C:/Users/B00847870.AD.001/Documents/GitHub/Vertical-Slice-Project/Content/Blueprint_/Con_BP-MAT/intro_Sequence.uasset",
-				"C:/Users/B00847870.AD.001/Documents/GitHub/Vertical-Slice-Project/Content/Blueprint_/Con_BP-MAT/Falling_Object.uasset",
-				"D:/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Level_1.umap",
-				"D:/Vertical-Slice-Project/Content/Blueprint_/Con_BP-MAT/intro_Sequence.uasset"
+				"C:/Users/B00847870.AD.001/Documents/GitHub/Vertical-Slice-Project/Content/Blueprint_/Con_BP-MAT/Falling_Object.uasset"
 			]
 		}
 	]
