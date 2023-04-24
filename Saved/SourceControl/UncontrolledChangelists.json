@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/B00847870.AD.002/Documents/GitHub/Vertical-Slice-Project/Content/Maps/Conaill_Levels/Tutorial_room2.umap",
+				"C:/Users/B00847870.AD.002/Documents/GitHub/Vertical-Slice-Project/Content/Maps/Conaill_Levels/Tutorial_room1.umap",
+				"C:/Users/B00847870.AD.002/Documents/GitHub/Vertical-Slice-Project/Content/Blueprint_/Con_BP-MAT/Mat_Folder/Flicker_Light.uasset",
+				"C:/Users/B00847870.AD.002/Documents/GitHub/Vertical-Slice-Project/Content/Maps/Conaill_Levels/Tutorial_Heavy_Room1.umap",
+				"C:/Users/B00847870.AD.002/Documents/GitHub/Vertical-Slice-Project/Content/Maps/Conaill_Levels/Tutorial_Heavy_Room2.umap",
 				"D:/Vertical-Slice-Project/Content/ThirdPersonBP/Maps/Level_1.umap",
 				"D:/Vertical-Slice-Project/Content/Blueprint_/Con_BP-MAT/intro_Sequence.uasset",
 				"D:/Vertical-Slice-Project/Content/Maps/Conaill_Levels/Tutorial_room1.umap",
