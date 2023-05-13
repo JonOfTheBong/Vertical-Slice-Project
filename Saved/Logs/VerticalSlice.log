@@ -22029,3 +22029,336 @@ BoxRespawn
 [2023.05.13-11.51.02:502][463]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
 [2023.05.13-11.51.03:023][516]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
 [2023.05.13-11.51.03:023][516]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.05.13-11.54.58:302][724]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.13-11.55.16:239][765]Cmd: EDIT COPY
+[2023.05.13-11.55.16:573][767]Cmd: EDIT PASTE
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: ================================================
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Total job queries 2078, among them cache hits 762 (36.67%)
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Tracking 1298 distinct input hashes that result in 489 distinct outputs (37.67%)
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: RAM used: 9.39 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.15%
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Shaders Compiled: 430
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Jobs assigned 430, completed 430 (100.00%)
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Average time worker was idle: 34.17 s
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Time job spent in pending queue: average 1.71 s, longest 46.19 s
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 43.68 s
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Job life time (pending + execution): average 3.01 s, max 46.79
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 270.35 s
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Jobs were issued in 423 batches (only local compilation was used), average 1.02 jobs/batch
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Average processing rate: 1.59 jobs/sec
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Total thread time: 353.86 s
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Total thread preprocess time: 19.54 s
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Percentage time preprocessing: 5.52%
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Effective parallelization: 1.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   73 times, average 1.15 sec, max 5.16 sec, min 0.63 sec)
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   73 times, average 1.06 sec, max 4.56 sec, min 0.59 sec)
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   53 times, average 0.87 sec, max 1.88 sec, min 0.50 sec)
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   13 times, average 0.74 sec, max 2.70 sec, min 0.18 sec)
+[2023.05.13-11.56.09:042][443]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   14 times, average 0.73 sec, max 1.18 sec, min 0.62 sec)
+[2023.05.13-11.56.09:043][443]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.13-11.56.09:043][443]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.73% of total time (compiled   73 times, average 1.15 sec, max 5.16 sec, min 0.63 sec)
+[2023.05.13-11.56.09:043][443]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.80% of total time (compiled   73 times, average 1.06 sec, max 4.56 sec, min 0.59 sec)
+[2023.05.13-11.56.09:043][443]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.06% of total time (compiled   53 times, average 0.87 sec, max 1.88 sec, min 0.50 sec)
+[2023.05.13-11.56.09:043][443]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.55% of total time (compiled   53 times, average 0.57 sec, max 1.22 sec, min 0.33 sec)
+[2023.05.13-11.56.09:043][443]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 3.04% of total time (compiled   15 times, average 0.72 sec, max 1.10 sec, min 0.58 sec)
+[2023.05.13-11.56.09:043][443]LogShaderCompilers: Display: ================================================
+[2023.05.13-11.56.13:404][664]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model_Everything/Prop/Nathan_Models/Wall_Light_3_Fixed.Wall_Light_3_Fixed
+[2023.05.13-11.56.13:404][664]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model_Everything/Prop/Nathan_Models/Wall_Light_3_Fixed.Wall_Light_3_Fixed
+[2023.05.13-11.56.13:405][664]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model_Everything/Prop/Nathan_Models/Wall_Light_3_Fixed.Wall_Light_3_Fixed as actor: StaticMeshActor /Game/Maps/Josh_Levels/Level1_Remake/Level1_Remake.Level1_Remake:PersistentLevel.StaticMeshActor_0
+[2023.05.13-11.56.13:818][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model_Everything/Prop/Nathan_Models/Wall_Light_3_Fixed.Wall_Light_3_Fixed
+[2023.05.13-11.56.13:818][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model_Everything/Prop/Nathan_Models/Wall_Light_3_Fixed.Wall_Light_3_Fixed
+[2023.05.13-11.56.13:820][687]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model_Everything/Prop/Nathan_Models/Wall_Light_3_Fixed.Wall_Light_3_Fixed as actor: StaticMeshActor /Game/Maps/Josh_Levels/Level1_Remake/Level1_Remake.Level1_Remake:PersistentLevel.StaticMeshActor_UAID_A85E45E33ACC278201_2099548308
+[2023.05.13-11.56.20:631][ 58]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/Josh_Levels/Level1_Remake/Level1_Remake.Level1_Remake:PersistentLevel.StaticMeshActor_UAID_A85E45E33ACC278201_2099548308.StaticMeshComponent0, from: Addition to navoctree)
+[2023.05.13-11.56.20:753][ 64]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/Josh_Levels/Level1_Remake/Level1_Remake.Level1_Remake:PersistentLevel.StaticMeshActor_UAID_A85E45E33ACC278201_2099548308.StaticMeshComponent0, from: Remove from navoctree)
+[2023.05.13-11.56.29:059][524]Cmd: MODE GRID=0
+[2023.05.13-11.56.29:495][549]Cmd: MODE ROTGRID=0
+[2023.05.13-11.56.30:412][601]Cmd: MODE SCALEGRID=0
+[2023.05.13-11.56.44:895][355]Cmd: EDIT COPY
+[2023.05.13-11.56.45:077][366]Cmd: EDIT PASTE
+[2023.05.13-11.56.47:050][476]Cmd: TRANSACTION UNDO
+[2023.05.13-11.56.47:050][476]LogEditorTransaction: Undo Move Elements
+[2023.05.13-11.56.47:143][476]Cmd: EDIT CUT
+[2023.05.13-11.56.47:194][476]LogEditorActor: Deleted Actor: SpotLight
+[2023.05.13-11.56.47:233][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.13-11.56.47:238][476]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2023.05.13-11.56.53:940][814]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.05.13-11.56.53:940][814]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.05.13-11.56.55:147][884]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.05.13-11.56.55:147][884]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.05.13-11.57.04:133][362]Cmd: EDIT COPY
+[2023.05.13-11.57.04:317][372]Cmd: EDIT PASTE
+[2023.05.13-11.57.47:355][601]Cmd: DELETE
+[2023.05.13-11.57.47:355][601]Cmd: ACTOR DELETE
+[2023.05.13-11.57.47:358][601]LogEditorActor: Deleted Actor: Flicker_Light_C
+[2023.05.13-11.57.47:400][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.13-11.57.47:406][601]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2023.05.13-11.57.49:129][699]Cmd: EDIT COPY
+[2023.05.13-11.57.49:310][710]Cmd: EDIT PASTE
+[2023.05.13-11.57.50:447][768]Cmd: TRANSACTION UNDO
+[2023.05.13-11.57.50:447][768]LogEditorTransaction: Undo Move Elements
+[2023.05.13-11.57.50:806][779]Cmd: TRANSACTION UNDO
+[2023.05.13-11.57.50:806][779]LogEditorTransaction: Undo Paste
+[2023.05.13-11.57.51:168][790]Cmd: TRANSACTION UNDO
+[2023.05.13-11.57.51:168][790]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.13-11.57.51:576][812]Cmd: TRANSACTION UNDO
+[2023.05.13-11.57.51:576][812]LogEditorTransaction: Undo Delete Elements
+[2023.05.13-11.57.59:605][211]Cmd: DELETE
+[2023.05.13-11.57.59:605][211]Cmd: ACTOR DELETE
+[2023.05.13-11.57.59:607][211]LogEditorActor: Deleted Actor: Flicker_Light_C
+[2023.05.13-11.57.59:668][211]LogWorldPartition: Actor /Game/Maps/Josh_Levels/Level1_Remake/Level1_Remake.Level1_Remake:PersistentLevel.SpotLight_UAID_A85E45E33ACC288201_1121299488 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/2/XW/12YTFI69U00NUKK8WFCMGW.PackageMetaData in its package
+[2023.05.13-11.57.59:670][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.05.13-11.57.59:674][211]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2023.05.13-11.57.59:713][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.05.13-11.58.05:968][522]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.13-11.58.05:968][522]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.13-11.58.08:299][639]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.13-11.58.08:299][639]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.13-11.58.15:740][994]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model_Everything/Prop/Nathan_Models/Wall_Light_2_Fixed.Wall_Light_2_Fixed
+[2023.05.13-11.58.15:740][994]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model_Everything/Prop/Nathan_Models/Wall_Light_2_Fixed.Wall_Light_2_Fixed
+[2023.05.13-11.58.15:741][994]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model_Everything/Prop/Nathan_Models/Wall_Light_2_Fixed.Wall_Light_2_Fixed as actor: StaticMeshActor /Game/Maps/Josh_Levels/Level1_Remake/Level1_Remake.Level1_Remake:PersistentLevel.StaticMeshActor_1
+[2023.05.13-11.58.16:231][ 18]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model_Everything/Prop/Nathan_Models/Wall_Light_2_Fixed.Wall_Light_2_Fixed
+[2023.05.13-11.58.16:231][ 18]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model_Everything/Prop/Nathan_Models/Wall_Light_2_Fixed.Wall_Light_2_Fixed
+[2023.05.13-11.58.16:233][ 18]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model_Everything/Prop/Nathan_Models/Wall_Light_2_Fixed.Wall_Light_2_Fixed as actor: StaticMeshActor /Game/Maps/Josh_Levels/Level1_Remake/Level1_Remake.Level1_Remake:PersistentLevel.StaticMeshActor_UAID_A85E45E33ACC288201_1148219490
+[2023.05.13-11.58.36:933][ 12]Cmd: DELETE
+[2023.05.13-11.58.36:933][ 12]Cmd: ACTOR DELETE
+[2023.05.13-11.58.36:936][ 12]LogEditorActor: Deleted Actor: PointLight
+[2023.05.13-11.58.36:983][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.13-11.58.36:987][ 12]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2023.05.13-11.58.42:149][308]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.05.13-11.58.42:149][308]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.05.13-11.58.43:347][378]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.05.13-11.58.43:347][378]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.05.13-12.01.17:565][224]Cmd: EDIT COPY
+[2023.05.13-12.01.17:800][235]Cmd: EDIT PASTE
+[2023.05.13-12.01.21:724][415]Cmd: EDIT COPY
+[2023.05.13-12.01.21:905][421]Cmd: EDIT PASTE
+[2023.05.13-12.02.36:994][146]LogEditorViewport: Clicking Background
+[2023.05.13-12.02.40:851][330]Cmd: EDIT COPY
+[2023.05.13-12.02.41:065][342]Cmd: EDIT PASTE
+[2023.05.13-12.02.45:817][570]Cmd: TRANSACTION UNDO
+[2023.05.13-12.02.45:817][570]LogEditorTransaction: Undo Rotate Elements
+[2023.05.13-12.02.50:925][822]Cmd: TRANSACTION UNDO
+[2023.05.13-12.02.50:925][822]LogEditorTransaction: Undo Rotate Elements
+[2023.05.13-12.03.24:401][572]MapCheck: New page: Map Check
+[2023.05.13-12.03.24:514][572]LightingResults: New page: Lighting Build - 13 May 2023, 14:03:24
+[2023.05.13-12.03.24:517][572]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2023.05.13-12.03.24:555][572]LogEditorBuildUtils: Build time 0:00
+[2023.05.13-12.03.29:491][856]LogEditorViewport: Clicking Background
+[2023.05.13-12.03.33:818][ 86]MapCheck: New page: Map Check
+[2023.05.13-12.03.33:835][ 86]LightingResults: New page: Lighting Build - 13 May 2023, 14:03:33
+[2023.05.13-12.03.33:835][ 86]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2023.05.13-12.03.33:847][ 86]LogEditorBuildUtils: Build time 0:00
+[2023.05.13-12.03.50:560][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.13-12.03.51:459][931]LogSlate: Window 'Save Content' being destroyed
+[2023.05.13-12.03.51:469][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-12.03.51:585][931]LogWorldPartition: Actor /Game/Maps/Josh_Levels/Level1_Remake/Level1_Remake.Level1_Remake:PersistentLevel.SpotLight_UAID_A85E45E33ACC278201_2130807309 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/E/UV/69S1Y52KSC8C3G92XCWYGS.PackageMetaData in its package
+[2023.05.13-12.03.51:587][931]LogWorldPartition: Actor /Game/Maps/Josh_Levels/Level1_Remake/Level1_Remake.Level1_Remake:PersistentLevel.PointLight_UAID_A85E45E33ACC288201_1140287489 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/D/UU/3X8K6TWZFFAJE3QBR1UZDX.PackageMetaData in its package
+[2023.05.13-12.03.51:588][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.13-12.03.51:628][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.13-12.03.51:666][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.05.13-12.03.51:689][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/F/45/UU4PPTRTYZM74KS7VGG55W
+[2023.05.13-12.03.51:690][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/UU4PPTRTYZM74KS7VGG55WB6ECA52645F1FBF92B421389595926AD.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/F/45/UU4PPTRTYZM74KS7VGG55W.uasset'
+[2023.05.13-12.03.51:717][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/E/5P/AY4FUAFD9UNCQP95T536Q9
+[2023.05.13-12.03.51:718][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/AY4FUAFD9UNCQP95T536Q96BA383184D4AF7830BDE8D8B7D3396BF.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/E/5P/AY4FUAFD9UNCQP95T536Q9.uasset'
+[2023.05.13-12.03.51:721][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/6/SN/PZ1N542V1GTD1X15PJT5V6
+[2023.05.13-12.03.51:722][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/PZ1N542V1GTD1X15PJT5V64D76816D4D6A2C05A00C0C97737D6238.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/6/SN/PZ1N542V1GTD1X15PJT5V6.uasset'
+[2023.05.13-12.03.51:726][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/A/G1/AC9WGQJYCJW8ZTL5RCZ03C
+[2023.05.13-12.03.51:726][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/AC9WGQJYCJW8ZTL5RCZ03C86086D1B443F63B7461F0689A77F80E4.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/A/G1/AC9WGQJYCJW8ZTL5RCZ03C.uasset'
+[2023.05.13-12.03.51:730][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/6/6X/AVVUDZL6S0V5NMJ7SWV4Y7
+[2023.05.13-12.03.51:730][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/AVVUDZL6S0V5NMJ7SWV4Y78F2020364D713C6D59A6FCAA327D712E.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/6/6X/AVVUDZL6S0V5NMJ7SWV4Y7.uasset'
+[2023.05.13-12.03.51:734][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/9/17/ZFU9C8YQMIPT9XN5KWEBU5
+[2023.05.13-12.03.51:735][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/ZFU9C8YQMIPT9XN5KWEBU536CEA19D424444EE3719EC829ABEC189.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/9/17/ZFU9C8YQMIPT9XN5KWEBU5.uasset'
+[2023.05.13-12.03.51:737][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/1/83/WJPOU9LCCGIEAK6YBB1KOH
+[2023.05.13-12.03.51:738][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/WJPOU9LCCGIEAK6YBB1KOH036CBB324DC05F79085E79BCE20E0391.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/1/83/WJPOU9LCCGIEAK6YBB1KOH.uasset'
+[2023.05.13-12.03.51:745][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/7/TK/CTPQVTZIQLPC52E56SLVUF
+[2023.05.13-12.03.51:745][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/CTPQVTZIQLPC52E56SLVUFDE52DDCB474332891909E0BA87FB8233.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/7/TK/CTPQVTZIQLPC52E56SLVUF.uasset'
+[2023.05.13-12.03.51:758][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/E/LA/9JURW2AK22FWFTX66WZNQJ
+[2023.05.13-12.03.51:758][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/9JURW2AK22FWFTX66WZNQJ6CA036D94A037E84570A8D940629089C.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/E/LA/9JURW2AK22FWFTX66WZNQJ.uasset'
+[2023.05.13-12.03.51:761][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/D/5H/XOLZMLZ90UT2VQ8F36HGIM
+[2023.05.13-12.03.51:761][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/XOLZMLZ90UT2VQ8F36HGIM02A91A93473117F1CF1A77BC69A56856.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/D/5H/XOLZMLZ90UT2VQ8F36HGIM.uasset'
+[2023.05.13-12.03.51:763][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/8/U7/73IPI7VXPLRPVG8Z91FCLI
+[2023.05.13-12.03.51:763][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/73IPI7VXPLRPVG8Z91FCLIE7D1E5E947E3CCE059826BBE2CD10B61.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/8/U7/73IPI7VXPLRPVG8Z91FCLI.uasset'
+[2023.05.13-12.03.51:767][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/4/M4/FOANKA6HB2ILEUILB1XMER
+[2023.05.13-12.03.51:767][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/FOANKA6HB2ILEUILB1XMERF01283504A3C2D331752C6AD885B2758.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/4/M4/FOANKA6HB2ILEUILB1XMER.uasset'
+[2023.05.13-12.03.51:769][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/B/RK/T6VLXF2TFNE9ZFT0OZFG27
+[2023.05.13-12.03.51:770][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/T6VLXF2TFNE9ZFT0OZFG27B751515B474829478F9E678E7DE60247.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/B/RK/T6VLXF2TFNE9ZFT0OZFG27.uasset'
+[2023.05.13-12.03.51:773][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/D/59/KJQQ0DM665222GO4CI3NT5
+[2023.05.13-12.03.51:773][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/KJQQ0DM665222GO4CI3NT52183C5A144FCB0C68F7B15BB7739C3EA.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/D/59/KJQQ0DM665222GO4CI3NT5.uasset'
+[2023.05.13-12.03.51:775][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/7/KL/MKNQAQEEM556CW68KUKGMJ
+[2023.05.13-12.03.51:775][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/MKNQAQEEM556CW68KUKGMJA5D046E34772CA8B525C6DA642552B3A.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/7/KL/MKNQAQEEM556CW68KUKGMJ.uasset'
+[2023.05.13-12.03.51:778][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/C/8M/FZ6TZDQKF8XAB8QVHWSN2U
+[2023.05.13-12.03.51:778][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/FZ6TZDQKF8XAB8QVHWSN2UB529303E499FB1D4B3DA7896D9546658.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/C/8M/FZ6TZDQKF8XAB8QVHWSN2U.uasset'
+[2023.05.13-12.03.51:780][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/B/7V/MFVZEXBJSF8G5A0VHDQ469
+[2023.05.13-12.03.51:780][931]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/MFVZEXBJSF8G5A0VHDQ4696C98171D41ECEC95133268A378CFF67F.tmp' to '../../../../Vertical-Slice-Project/Content/__ExternalActors__/Maps/Josh_Levels/Level1_Remake/Level1_Remake/B/7V/MFVZEXBJSF8G5A0VHDQ469.uasset'
+[2023.05.13-12.03.51:807][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 338 ms (total: 2:02 min)
+[2023.05.13-12.03.52:199][931]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Conaill_Levels/Tutorial_room1.Tutorial_room1
+[2023.05.13-12.03.52:199][931]Cmd: MAP LOAD FILE="../../../../Vertical-Slice-Project/Content/Maps/Conaill_Levels/Tutorial_room1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.13-12.03.52:199][931]LightingResults: New page: Lighting Build
+[2023.05.13-12.03.52:199][931]LoadErrors: New page: Loading map: Tutorial_room1.umap
+[2023.05.13-12.03.52:234][931]LogWorld: UWorld::CleanupWorld for Level1_Remake, bSessionEnded=true, bCleanupResources=true
+[2023.05.13-12.03.52:234][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-12.03.52:250][931]LogContentBundle: [Container: Level1_Remake] Deleting container.
+[2023.05.13-12.03.52:250][931]MapCheck: New page: Map Check
+[2023.05.13-12.03.52:250][931]LightingResults: New page: Lighting Build
+[2023.05.13-12.03.52:288][931]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.13-12.03.52:297][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.13-12.03.52:301][931]LogWorld: UWorld::CleanupWorld for Tutorial_room1, bSessionEnded=true, bCleanupResources=true
+[2023.05.13-12.03.52:301][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-12.03.52:336][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.13-12.03.52:365][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.05.13-12.03.52:399][931]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial_room1'.
+[2023.05.13-12.03.52:400][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.13-12.03.52:400][931]LogAIModule: Creating AISystem for world Tutorial_room1
+[2023.05.13-12.03.53:133][931]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.13-12.03.53:169][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.13-12.03.53:188][931]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.13-12.03.53:188][931]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2023.05.13-12.03.53:188][931]LogFileHelpers: Loading map 'Tutorial_room1' took 0.989
+[2023.05.13-12.03.53:247][931]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.13-12.04.04:484][598]MapCheck: New page: Map Check
+[2023.05.13-12.04.04:496][598]LightingResults: New page: Lighting Build - 13 May 2023, 14:04:04
+[2023.05.13-12.04.05:012][598]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.05.13-12.04.05:737][598]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.05.13-12.04.05:779][598]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.05.13-12.04.06:823][598]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.05.13-12.04.06:823][598]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19688
+[2023.05.13-12.04.10:214][598]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.05.13-12.04.10:215][598]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.05.13-12.04.10:215][598]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.05.13-12.04.10:215][598]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.05.13-12.04.10:215][598]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.05.13-12.04.10:215][598]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.05.13-12.04.11:286][598]LogEditorBuildUtils: Build time 0:06
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: ================================================
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Total job queries 2095, among them cache hits 765 (36.52%)
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Tracking 1312 distinct input hashes that result in 492 distinct outputs (37.50%)
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: RAM used: 9.48 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.16%
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Shaders Compiled: 432
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Jobs assigned 432, completed 432 (100.00%)
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Average time worker was idle: 36.19 s
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Time job spent in pending queue: average 1.71 s, longest 46.19 s
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 43.68 s
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Job life time (pending + execution): average 3.00 s, max 46.79
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 271.78 s
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Jobs were issued in 425 batches (only local compilation was used), average 1.02 jobs/batch
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Average processing rate: 1.59 jobs/sec
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Total thread time: 355.58 s
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Total thread preprocess time: 19.68 s
+[2023.05.13-12.04.11:359][598]LogShaderCompilers: Display: Percentage time preprocessing: 5.54%
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display: Effective parallelization: 1.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   73 times, average 1.15 sec, max 5.16 sec, min 0.63 sec)
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   74 times, average 1.05 sec, max 4.56 sec, min 0.59 sec)
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   53 times, average 0.87 sec, max 1.88 sec, min 0.50 sec)
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   13 times, average 0.74 sec, max 2.70 sec, min 0.18 sec)
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   14 times, average 0.73 sec, max 1.18 sec, min 0.62 sec)
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.62% of total time (compiled   73 times, average 1.15 sec, max 5.16 sec, min 0.63 sec)
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.93% of total time (compiled   74 times, average 1.05 sec, max 4.56 sec, min 0.59 sec)
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.99% of total time (compiled   53 times, average 0.87 sec, max 1.88 sec, min 0.50 sec)
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.51% of total time (compiled   53 times, average 0.57 sec, max 1.22 sec, min 0.33 sec)
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 3.03% of total time (compiled   15 times, average 0.72 sec, max 1.10 sec, min 0.58 sec)
+[2023.05.13-12.04.11:360][598]LogShaderCompilers: Display: ================================================
+[2023.05.13-12.04.14:063][612]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.05.13-12.05.02:198][612]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [46905ms] waiting for h/w. InstanceID=1
+[2023.05.13-12.05.02:200][612]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.000000s
+[2023.05.13-12.05.04:237][612]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.003854s (2.086491s overbudget)
+[2023.05.13-12.05.04:261][613]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16544
+[2023.05.13-12.05.04:541][614]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{59a0a538-6ebf-40d8-936e-714757cd6edb}, Name=BenQ EW2480 (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=25.02
+[2023.05.13-12.05.04:541][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.13-12.05.04:544][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.13-12.05.05:429][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.13-12.05.08:621][643]Job is a success!
+[2023.05.13-12.05.09:372][644]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.05.13-12.05.09:372][644]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.05.13-12.05.09:372][644]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2023.05.13-12.05.09:372][644]LogVolumetricLightmapImport:      Bricks at depth
+[2023.05.13-12.05.09:372][644]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2023.05.13-12.05.09:372][644]LogVolumetricLightmapImport:          1: 75.0% covering 4.7% of volume
+[2023.05.13-12.05.09:372][644]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2023.05.13-12.05.09:372][644]LogVolumetricLightmapImport:      Bricks in each level
+[2023.05.13-12.05.09:372][644]LogVolumetricLightmapImport:          Tutorial_room1 			 4 bricks 	 100.0% (Persistent Level)
+[2023.05.13-12.05.09:412][644]LogTexture: Display: Building textures: /Game/Maps/Conaill_Levels/Tutorial_room1_BuiltData.Tutorial_room1_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 39.854156 MB), EncodeSpeed: Fast
+[2023.05.13-12.05.09:423][644]LogTexture: Display: Building textures: /Game/Maps/Conaill_Levels/Tutorial_room1_BuiltData.Tutorial_room1_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.229082 MB), EncodeSpeed: Fast
+[2023.05.13-12.05.09:446][644]LogTexture: Display: Building textures: /Game/Maps/Conaill_Levels/Tutorial_room1_BuiltData.Tutorial_room1_BuiltData:ShadowMapTexture2D_1 (BGRA8, 1024x64 x1x1x1) (Required Memory Estimate: 2.062531 MB), EncodeSpeed: Fast
+[2023.05.13-12.05.09:461][644]Lightmass on DESKTOP-OG1OTKE: 2.30 sec total, 292 ms importing, 39 ms setup, 333 ms photons, 1.64 sec processing, 0 us extra exporting [19/19 mappings]. Threads: 8.20 sec total, 2.68 sec processing.
+[2023.05.13-12.05.09:480][644]LogStaticLightingSystem: Tutorial_room1_BuiltData storing lightmap data for 19 meshes in 2 LightmapResourceClusters (9.5 Meshes per cluster).
+[2023.05.13-12.05.09:491][644]LogMaterial: Display: Material /Game/Model_Everything/Prop/Lucas_Models/Organics/YellowShroom/CurvedTallShroom/CTYShrTex.CTYShrTex needed to have new flag set bUsedWithStaticLighting !
+[2023.05.13-12.05.09:572][644]LogMaterial: Display: Material /Game/Model_Everything/Prop/Conor_Models/Railings/Railing_1/Railing_1_Mat.Railing_1_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.05.13-12.05.09:728][644]LogMaterial: Display: Material /Game/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/CurvedTex/CRShrTex.CRShrTex needed to have new flag set bUsedWithStaticLighting !
+[2023.05.13-12.05.09:773][644]LogMaterial: Display: Material /Game/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/CurvedTex/CRDetail/CRMDetail_Base_color_Mat.CRMDetail_Base_color_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.05.13-12.05.09:816][644]LogMaterial: Display: Material /Game/Model_Everything/Prop/Conor_Models/Box/BoxTex.BoxTex needed to have new flag set bUsedWithStaticLighting !
+[2023.05.13-12.05.09:918][644]LogMaterial: Display: Material /Game/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/Redmushroomtexture/NRDetail/RedMushroomDetails_Base_color_Mat.RedMushroomDetails_Base_color_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.05.13-12.05.09:958][644]LogMaterial: Display: Material /Game/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/Materials/Mushroom.Mushroom needed to have new flag set bUsedWithStaticLighting !
+[2023.05.13-12.05.10:110][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.13-12.05.10:211][644]LogStaticLightingSystem: Illumination: 1:05 min (34 ms encoding lightmaps, 16 ms encoding shadowmaps)
+[2023.05.13-12.05.10:211][644]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.6 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.05.13-12.05.10:211][644]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 1 textures
+[2023.05.13-12.05.15:212][644]DumpUnbuiltLightIteractions
+[2023.05.13-12.05.15:213][644]Lights with unbuilt interactions: 0
+[2023.05.13-12.05.15:213][644]
+[2023.05.13-12.05.15:213][644]Primitives with unbuilt interactions: 0
+[2023.05.13-12.05.22:932][644]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.13-12.06.05:014][644]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.000544s (42.087072s overbudget)
+[2023.05.13-12.06.05:050][644]LogDerivedDataCache: Display: C:/Users/conai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 38255a45c080480a2584f2321aaaeb3a5e103f18 and existing hash 916db2a68e5309180423a4a960ff29b28cb75b5f for MaterialShaderMap/fa6142ba53fcd9bd44b8b5e3fcdb97609eda50dd from '/Game/ThirdPersonBP/Maps/NewFolder/Lever.Lever [PCD3D_SM6, SM6, Num]'
+[2023.05.13-12.06.05:060][644]LogDerivedDataCache: Display: C:/Users/conai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 193658c6539cf7ec14cd93367537ee40ad3fa405 and existing hash 4ebd5a08ee50683b3762d3c2cefe1d1ccd4abc9e for MaterialShaderMap/7825cb3eac6ba7a2a0f90845dc37f3e2d546d23b from '/Game/Model_Everything/Character/Sarah_Models/Animatioins/lambert1.lambert1 [PCD3D_SM6, SM6, Num]'
+[2023.05.13-12.06.05:117][644]LogDerivedDataCache: Display: C:/Users/conai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 4addc314bf53e3646d35edca54b0580df2bc3831 and existing hash acc3eff85a73e80453f561b8320497bda34b2b1b for MaterialShaderMap/3d410bebe16ad5da4e34a8ca95562ae2598a1e84 from '/Game/ThirdPersonBP/Blueprints/g_Mat.g_Mat [PCD3D_SM6, SM6, Num]'
+[2023.05.13-12.06.05:146][644]LogDerivedDataCache: Display: C:/Users/conai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash e145fbdef1c14ae99ffbd51af55391a9c6527543 and existing hash 9dbf43410f53bc31c4516884fb1adb48483184e7 for MaterialShaderMap/017785786498c08f4debf360381b12facf9b4516 from '/Game/Model_Everything/Prop/Nathan_Models/WALL_LIGHT_2_textures/Wall_Light_2.Wall_Light_2 [PCD3D_SM6, SM6, Num]'
+[2023.05.13-12.06.05:148][644]LogDerivedDataCache: Display: C:/Users/conai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 5dac3a5edb29562aa686ccd14916af1da57ada94 and existing hash ecae6d23de7a67046246accdb6bb7f25335e8ef8 for MaterialShaderMap/f076add682a9bfcfb7292b1a0eeaae937cd030ff from '/Engine/EngineSky/M_SimpleSkyDome.M_SimpleSkyDome [PCD3D_SM6, SM6, Num]'
+[2023.05.13-12.06.05:154][644]LogDerivedDataCache: Display: C:/Users/conai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash ef5d976a6c51ffdb5c9b6c6d70df3ce9074ed884 and existing hash 2076fdd0ac07d1b4c9f650e5e375ef6ec1fd0a24 for MaterialShaderMap/5ed9e8701d5e1f8c438fa5dd8f88eb7e9ba89c66 from '/Game/Model_Everything/Prop/Morgan_Models/RobotDestroyed1/Vents.Vents [PCD3D_SM6, SM6, Num]'
+[2023.05.13-12.06.05:171][644]LogDerivedDataCache: Display: C:/Users/conai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 28585571bdeb3d5e9e0703734c03f649b8a1d949 and existing hash 308557a519a8cd58b4c02c1d7e773c6ef13a3397 for MaterialShaderMap/60029f000c213ac106b9a47fc762f5425a1a6686 from '/Game/Model_Everything/Prop/Nathan_Models/WALL_LIGHT_3_textures/Wall_Light_3.Wall_Light_3 [PCD3D_SM6, SM6, Num]'
+[2023.05.13-12.06.05:172][644]LogDerivedDataCache: Display: C:/Users/conai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 48a3ffb76293d1fe38c50592a39f1241cdab0b4d and existing hash 889403258b9867d14ab4cfd0aafbed48c6799f52 for MaterialShaderMap/cfbbe6a8b809aba28120b3c4f7c89b197d75db4d from '/Game/Model_Everything/Prop/Morgan_Models/RobotDestroyed1/Gear.Gear [PCD3D_SM6, SM6, Num]'
+[2023.05.13-12.06.05:180][644]LogDerivedDataCache: Display: C:/Users/conai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash bdcb3b025dcc473b4548a312b86b4834617adf63 and existing hash 76c21921ed579e19899f12bdc999f30fb5368092 for MaterialShaderMap/0de67546deb3d3673cec196bcc68549f8ffee981 from '/Game/Model_Everything/Prop/Morgan_Models/RobotDestroyed1/RobotBase.RobotBase [PCD3D_SM6, SM6, Num]'
+[2023.05.13-12.06.05:209][644]LogDerivedDataCache: Display: C:/Users/conai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash dacc1f712310825a9c3f4a1c7c0e7b7bb408539d and existing hash b8688c71c3af19d12c7439b5ee08124a46115451 for MaterialShaderMap/394126587647f419d3c14e46a5662de60a3bbb2a from '/Game/StylizedPPPack/Materials/PPM_Outline.PPM_Outline [PCD3D_SM6, SM6, Num]'
+[2023.05.13-12.06.05:255][645]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.05.13-12.06.05:255][645]MapCheck: New page: Tutorial_room1 - 13 May 2023, 14:06:05
+[2023.05.13-12.06.05:256][645]MapCheck: Warning: StaticMeshActor_1 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.05.13-12.06.05:257][645]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.418ms to complete.
+[2023.05.13-12.20.45:524][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.05.13-12.20.45:529][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-12.20.45:911][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.13-12.20.45:980][376]LogSavePackage: Moving output files for package: /Game/Maps/Conaill_Levels/Tutorial_room1
+[2023.05.13-12.20.45:981][376]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/Tutorial_room19F69F39F45DE194055196A95D0F81FB6.tmp' to '../../../../Vertical-Slice-Project/Content/Maps/Conaill_Levels/Tutorial_room1.umap'
+[2023.05.13-12.20.46:004][376]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/Conaill_Levels/Tutorial_room1_BuiltData
+[2023.05.13-12.20.46:004][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-12.20.46:004][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Conaill_Levels/Tutorial_room1_BuiltData" FILE="../../../../Vertical-Slice-Project/Content/Maps/Conaill_Levels/Tutorial_room1_BuiltData.uasset" SILENT=true
+[2023.05.13-12.20.46:019][376]LogSavePackage: Moving output files for package: /Game/Maps/Conaill_Levels/Tutorial_room1_BuiltData
+[2023.05.13-12.20.46:020][376]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/Tutorial_room1_BuiltDataF1A38ADC4E053B0A0B3339BE3260A564.tmp' to '../../../../Vertical-Slice-Project/Content/Maps/Conaill_Levels/Tutorial_room1_BuiltData.uasset'
+[2023.05.13-12.20.46:029][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 2:02 min)
+[2023.05.13-12.20.46:029][376]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/Conaill_Levels/Tutorial_room1_BuiltData
+[2023.05.13-12.20.46:029][376]LogFileHelpers: Saving map 'Tutorial_room1' took 0.149
+[2023.05.13-12.20.46:029][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Conaill_Levels/Tutorial_room1_BuiltData" FILE="../../../../Vertical-Slice-Project/Content/Maps/Conaill_Levels/Tutorial_room1_BuiltData.uasset" SILENT=true
+[2023.05.13-12.20.46:042][376]LogSavePackage: Moving output files for package: /Game/Maps/Conaill_Levels/Tutorial_room1_BuiltData
+[2023.05.13-12.20.46:043][376]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/Tutorial_room1_BuiltData52ADF7DD4EE5D8AFECB9E0BB4887CA3E.tmp' to '../../../../Vertical-Slice-Project/Content/Maps/Conaill_Levels/Tutorial_room1_BuiltData.uasset'
+[2023.05.13-12.20.46:065][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model_Everything/Prop/Conor_Models/Box/BoxTex" FILE="../../../../Vertical-Slice-Project/Content/Model_Everything/Prop/Conor_Models/Box/BoxTex.uasset" SILENT=true
+[2023.05.13-12.20.46:069][376]LogSavePackage: Moving output files for package: /Game/Model_Everything/Prop/Conor_Models/Box/BoxTex
+[2023.05.13-12.20.46:069][376]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/BoxTex3473759E4C070167DDB069A3125621A2.tmp' to '../../../../Vertical-Slice-Project/Content/Model_Everything/Prop/Conor_Models/Box/BoxTex.uasset'
+[2023.05.13-12.20.46:087][376]LogSavePackage: Moving output files for package: /Game/Model_Everything/Prop/Lucas_Models/Organics/YellowShroom/CurvedTallShroom/CTYShrTex
+[2023.05.13-12.20.46:088][376]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/CTYShrTex591E528C427B8D30A5A1E2B589D2B38C.tmp' to '../../../../Vertical-Slice-Project/Content/Model_Everything/Prop/Lucas_Models/Organics/YellowShroom/CurvedTallShroom/CTYShrTex.uasset'
+[2023.05.13-12.20.46:105][376]LogSavePackage: Moving output files for package: /Game/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/Materials/Mushroom
+[2023.05.13-12.20.46:105][376]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/MushroomF94FC7374FF302E16F90729C28D515A7.tmp' to '../../../../Vertical-Slice-Project/Content/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/Materials/Mushroom.uasset'
+[2023.05.13-12.20.46:119][376]LogSavePackage: Moving output files for package: /Game/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/Redmushroomtexture/NRDetail/RedMushroomDetails_Base_color_Mat
+[2023.05.13-12.20.46:119][376]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/RedMushroomDetails_Base_color_MaF2D73FAC48E75C5DB56D7786D90FCE7D.tmp' to '../../../../Vertical-Slice-Project/Content/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/Redmushroomtexture/NRDetail/RedMushroomDetails_Base_color_Mat.uasset'
+[2023.05.13-12.20.46:132][376]LogSavePackage: Moving output files for package: /Game/Model_Everything/Prop/Conor_Models/Railings/Railing_1/Railing_1_Mat
+[2023.05.13-12.20.46:132][376]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/Railing_1_MatD5217F8B44E7601C1071878726DFBE76.tmp' to '../../../../Vertical-Slice-Project/Content/Model_Everything/Prop/Conor_Models/Railings/Railing_1/Railing_1_Mat.uasset'
+[2023.05.13-12.20.46:145][376]LogSavePackage: Moving output files for package: /Game/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/CurvedTex/CRDetail/CRMDetail_Base_color_Mat
+[2023.05.13-12.20.46:146][376]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/CRMDetail_Base_color_Mat8CB5A7F84C769A0A4BF46BBDD65E760A.tmp' to '../../../../Vertical-Slice-Project/Content/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/CurvedTex/CRDetail/CRMDetail_Base_color_Mat.uasset'
+[2023.05.13-12.20.46:158][376]LogSavePackage: Moving output files for package: /Game/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/CurvedTex/CRShrTex
+[2023.05.13-12.20.46:159][376]LogSavePackage: Moving '../../../../Vertical-Slice-Project/Saved/CRShrTex9714FE844BDE0C91456953A147990669.tmp' to '../../../../Vertical-Slice-Project/Content/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/CurvedTex/CRShrTex.uasset'
+[2023.05.13-12.20.46:189][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 659 ms (total: 2:03 min)
+[2023.05.13-12.20.46:197][376]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.13-12.20.46:197][376]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Model_Everything/Prop/Conor_Models/Box/BoxTex.BoxTex
+[2023.05.13-12.20.46:197][376]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Model_Everything/Prop/Lucas_Models/Organics/YellowShroom/CurvedTallShroom/CTYShrTex.CTYShrTex
+[2023.05.13-12.20.46:198][376]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/Materials/Mushroom.Mushroom
+[2023.05.13-12.20.46:198][376]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/Redmushroomtexture/NRDetail/RedMushroomDetails_Base_color_Mat.RedMushroomDetails_Base_color_Mat
+[2023.05.13-12.20.46:198][376]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Model_Everything/Prop/Conor_Models/Railings/Railing_1/Railing_1_Mat.Railing_1_Mat
+[2023.05.13-12.20.46:198][376]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/CurvedTex/CRDetail/CRMDetail_Base_color_Mat.CRMDetail_Base_color_Mat
+[2023.05.13-12.20.46:198][376]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Model_Everything/Prop/Lucas_Models/Organics/RedShroom/Organics_Material/CurvedTex/CRShrTex.CRShrTex
+[2023.05.13-12.20.46:198][376]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Conaill_Levels/Tutorial_room1.Tutorial_room1
+[2023.05.13-12.20.46:198][376]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/Maps/Conaill_Levels/Tutorial_room1_BuiltData.Tutorial_room1_BuiltData
